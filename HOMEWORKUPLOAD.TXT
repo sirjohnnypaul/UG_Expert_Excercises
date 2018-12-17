@@ -1,4 +1,4 @@
-Homework Task:
+# HOMEWORK TASK
 
 The aim of homework is to help you learn the JS language. For some of you excercises may be very easy, 
 for some of you who are just starting using JS, they may be average or even hard. I want you to do this 
@@ -7,7 +7,7 @@ every week during the classes, but also work on your own. The deadline of each h
 to the day after our excercises. This time it's the 21st of December. Please do your excercises on time and upload 
 to upload@janszczesniewicz.pl. Feel free to send there your feedback.
 
-#EXCERCISES:
+# EXCERCISES:
 
 1. Create 50 elements array and fill it with random of range (3,4)
 
@@ -27,7 +27,7 @@ Clue:
 At first try to use loops and if statements. You can have a look for the example here - https://www.w3resource.com/javascript-exercises/javascript-array-exercise-7.php
 As a second solution of this excercise try to use ready JS functions. Check docs - https://www.w3schools.com/jsref/jsref_sort.asp
 
-#EXTRA EXCERCISES (However I encourage to try them too)
+# EXTRA EXCERCISES (However I encourage to try them too)
 
 5. Write a loop that will iterate through an array of alphabet chars(english) and return the result of each iteration as
 output of Char and description if the char is vowel or consonant. Then add vovels to a new array and do the same with 
