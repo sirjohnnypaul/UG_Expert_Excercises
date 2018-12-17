@@ -1,0 +1,66 @@
+Homework Task:
+
+The aim of homework is to help you learn the JS language. For some of you excercises may be very easy, 
+for some of you who are just starting using JS, they may be average or even hard. I want you to do this 
+excercises to ecourage you to code for some time every day. It's the best practice way, not only to meet 
+every week during the classes, but also work on your own. The deadline of each homework will be the closest Friday
+to the day after our excercises. This time it's the 21st of December. Please do your excercises on time and upload 
+to upload@janszczesniewicz.pl. Feel free to send there your feedback.
+
+#EXCERCISES:
+
+1. Create 50 elements array and fill it with random of range (3,4)
+
+2. Create a loop displaying numbers dividable by 3 and 9
+
+3. Write a function accepting two parameters: One - type of action (addition, subtraction, multiplication, division, roots); 
+Two - input number.Create validation. If input of any is text -> "Error, only numbers are supported". 
+Define each action and return the result. Test if everything is working.
+
+4.Write a JavaScript program to sort the items of an array 1- ascending and 2- descending. I want you to try to do each 
+thing in two ways - check the Clue section.
+
+Sample array : var arrInput = [ 1,42,111,-25,746,2,56,-2];
+Sample Output : [ -25, -2, 1, 2, 42, 56, 111, 746 ];
+
+Clue:
+At first try to use loops and if statements. You can have a look for the example here - https://www.w3resource.com/javascript-exercises/javascript-array-exercise-7.php
+As a second solution of this excercise try to use ready JS functions. Check docs - https://www.w3schools.com/jsref/jsref_sort.asp
+
+#EXTRA EXCERCISES (However I encourage to try them too)
+
+5. Write a loop that will iterate through an array of alphabet chars(english) and return the result of each iteration as
+output of Char and description if the char is vowel or consonant. Then add vovels to a new array and do the same with 
+consonants in separate array. Check if new arrays are sorted alphabetically. If not, you know what is your next task ;) 
+Output sorted arrays as well. If you want you can also try the options of UPPERCASE AND LOWERCASE (try to use map function). 
+Return everything in console. By the end of semester I will show you React JS and we will make a client for C# API, where we will use
+all JS features to render content on the page. 
+
+example output: A | A is a vovel
+                Vovels: ...
+                Consonants: ...
+
+                Vovels to upper/lowercase: ...
+                Consonants to upper/lowercase: ...
+                
+6. Create and array of 5 class members objects (name, mathGrade, C#Grade, englishGrade, JSGrade, PythonGrade, RubyGrade). 
+Set their names and marks in range of (1-6 (can be half like 2.5;3.5;4.5) and calculate averages for each of them. 
+Basing on average, try to round the result to full number (basing on math rules) and later display the final grade word for each 
+person basing on the table:
+
+6 - excelent
+5 - very good
+4 - good
+3- average
+2 - not very good, start learning
+1 - tragic
+
+
+PLAN FOR NEXT CLASSES:
+
+- more basic features of JS, introduction to regular expressions
+- synchronous java script, ajax, async,await, 
+- npm, babel, webpack
+- intro to react and redux
+
+
