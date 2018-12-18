@@ -3,8 +3,7 @@
 The aim of homework is to help you learn the JS language. For some of you excercises may be very easy, 
 for some of you who are just starting using JS, they may be average or even hard. I want you to do this 
 excercises to ecourage you to code for some time every day. It's the best practice way, not only to meet 
-every week during the classes, but also work on your own. The deadline of each homework will be the closest Friday
-to the day after our excercises. This time it's the 21st of December. Please do your excercises on time and upload 
+every week during the classes, but also work on your own. Please do your excercises on time and upload 
 to upload@janszczesniewicz.pl. Feel free to send there your feedback.
 
 # EXCERCISES:
