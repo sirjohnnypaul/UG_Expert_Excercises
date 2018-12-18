@@ -351,15 +351,15 @@ const ageCon = 13;
 console.log(typeof(nameCon));
 console.log(typeof(ageCon));
 
-var Person = {};
-console.log(typeof(Person));
+var Person2 = {};
+console.log(typeof(Person2));
 
-var Person = {
+var Person2 = {
     name: 'James',
     surname: 'Bond'
 }
 
-console.log(typeof(Person));
+console.log(typeof(Person2));
 
 let a = null;
 console.log(a);
