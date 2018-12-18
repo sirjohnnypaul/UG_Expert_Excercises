@@ -1,0 +1,6 @@
+To open folder, find Visual Studio Code on your PC/Laptop and open dowloaded folder with the program. 
+After that go to dependencies tab and search for Live Server, install it. After installation refresh 
+the program. Choose index.html file and click it to display content. Then on the bottom bar of the programm click LIVE SERVER.
+It will open the browser automatically. If chrome is not set as default, simply copy the url of opened page and paste it to chrome.
+On chrome click right button of your mouse and then explore. Choose console on the tabs and here you are. Now results of your code 
+should be visible. Enjoy!
